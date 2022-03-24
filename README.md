@@ -1,5 +1,5 @@
 # pim-memorias
-Temas disponibles para Proyectos de Ingeniería Mecánica y Memorias de Título.
+Temas disponibles para Proyectos de Ingeniería Mecánica y Memorias de Título. Contacto fleaman@udec.cl
 
 ## 1. Evaluación de atributos y modelos de aprendizaje automático para detección de falla en engranaje planetario
 #### Descripción

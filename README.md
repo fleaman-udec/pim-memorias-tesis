@@ -1,5 +1,6 @@
 # pim-memorias-tesis
-Temas disponibles para Proyectos de Ingeniería Mecánica, Memorias de Título y Tesis de Magíster. Otros temas a convenir. Contacto fleaman@udec.cl
+Temas disponibles para Proyectos de Ingeniería Mecánica, Memorias de Título y Tesis de Magíster. Otros temas a convenir. 
+Contacto al correo fleaman@udec.cl
 
 ## 1. Evaluación de atributos y modelos de aprendizaje automático para detección de falla en engranaje planetario
 #### Descripción

@@ -78,3 +78,15 @@ Desarrollar un prototipo de sistema de medición de vibraciones en la plataforma
 * Programación de herramientas de análisis y visualización
 * Comparación con sistema de medición estándar
 * Demostración del prototipo en laboratorio
+
+## 7. Modelación de sistemas dinámicos mediante redes neuronales artificiales
+#### Descripción
+Las redes neuronales artificiales (ANN) son en la actualidad el método más versátil dentro del aprendizaje automático (machine learning) para generar modelos de clasificación y regresión a partir de datos. Es decir, ellas tienen la capacidad de aprender las relaciones funcionales entre datos de entrada y datos de salida sin la necesidad de definir las ecuaciones analíticas que gobiernan el fenómeno en cuestión. En los últimos años han surgido tipos de ANN que son capaces de predecir el comportamiento de sistemas dinámicos sin la necesidad de establecer las ecuaciones diferenciales del movimiento, lo cuál tiene un gran potencial dentro de la ingeniería mecánica. Existen modelos que utilizan ANN clásicas como el perceptrón multicapa, o bien modelos más avanzados que utilizan las formulaciones de la mecánica de Lagrange y de Hamilton.
+#### Objetivo principal
+Establecer modelos de ANN que permitan modelar el movimiento de sistemas dinámicos del tipo masa-resorte-amortiguador.
+#### Temario
+* Investigación bibliográfica sobre ANN
+* Simulación numérica de sistemas dinámicos
+* Diseño y programación de modelos ANN en Python
+* Comparación de resultados de modelos ANN con resultados analíticos
+* Aplicación a caso experimental en laboratorio

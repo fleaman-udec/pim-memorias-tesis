@@ -90,3 +90,15 @@ Establecer modelos de ANN que permitan modelar el movimiento de sistemas dinámi
 * Diseño y programación de modelos ANN en Python
 * Comparación de resultados de modelos ANN con resultados analíticos
 * Aplicación a caso experimental en laboratorio
+
+## 8. Diagnóstico de fallas en máquinas mediante clasificación automática de imágenes tiempo-frecuencia
+#### Descripción
+Una poderosa herramienta de análisis para el diagnóstico de fallas en máquinas son las transformadas tiempo-frecuencia. Algunas de ellas son la transformada corta de Fourier, las transformadas wavelet o la transformada Hilbert-Huang, entre otras. Estas transformadas se usan para generar una representación gráfica (imagen) de la distribución de energía de una señal vibratoria en los dominios tiempo y frecuencia. Debido a la compleja interpretación de sus resultados, se hace necesario contar con metodologías que permitan un análisis con mayor grado de automatización. En este sentido, las técnicas del aprendizaje automático para clasificación de imágenes tienen un gran potencial para avanzar en esta dirección.
+#### Objetivo principal
+Desarrollar una metodología de clasificación automática de fallas mediante imágenes tiempo-frecuencia utilizando aprendizaje automático.
+#### Temario
+* Investigación bibliográfica sobre transformadas tiempo-frecuencia
+* Investigación bibliográfica sobre técnicas de clasificación de imágenes
+* Definir casos de estudio de fallas a considerar
+* Diseño y programación una metodología de análisis en Python
+* Evaluación de la metodología con señales simuladas y/o medidas

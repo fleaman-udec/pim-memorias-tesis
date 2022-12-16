@@ -102,3 +102,15 @@ Desarrollar una metodología de clasificación automática de fallas mediante im
 * Definir casos de estudio de fallas a considerar
 * Diseño y programación una metodología de análisis en Python
 * Evaluación de la metodología con señales simuladas y/o medidas
+
+## 9. Generación de datos sintéticos mediante redes generativas antagónicas para el diagnóstico de condición de máquinas
+#### Descripción
+En el diagnóstico de condición de máquinas mediante aprendizaje automático es común no contar con suficientes datos como uno quisiera para poder entrenar un modelo de predicción. Una forma de enfrentar esto es mediante la generación de datos sintéticos que sean diferentes a los reales, pero que a la vez sean plausibles de ocurrir. Para este efecto, las redes generativas antagónicas son algoritmos consistentes en un generador y un evaluador. El generador produce datos sintéticos en base a datos reales y el evaluador intenta descubrir si los datos que le llegan son sintéticos o reales. La idea es intentar "engañar" al evaluador hasta el punto en que no pueda distinguir entre datos reales y sintéticos.
+#### Objetivo principal
+Implementar red generativa antagónica para mejorar el desempeño de modelos clasificadores de fallas en máquinas
+#### Temario
+* Investigación bibliográfica sobre redes generativas antagónicas
+* Definición del caso de estudio de diagnóstico de falla en máquina
+* Implementación y programación del modelo generativo en Python
+* Entrenamiento de modelos de clasificación solo con datos reales y con datos sintéticos y reales
+* Evaluación del desempeño de la estrategia

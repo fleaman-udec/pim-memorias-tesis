@@ -56,7 +56,7 @@ Realizar el diseño (básico y detalles) de un banco de ensayos del tipo superfi
 
 ## 5. Modelación de emisiones acústicas generadas por fricción rodante
 #### Descripción
-Las emisiones acústicas (AE) son ondas de esfuerzo elástico producidas por liberaciones de energía de deformación en sólidos. Algunas de las fuentes de AE en componentes mecánicos son los impactos, la fricción y la deformación plástica, entre otras. Para el caso de la fricción deslizante entre superficies rugosas, existen algunos modelos que predicen los niveles de AE dados parámetros tales como velocidad de deslizamiento, área y rugosidad. Sin embargo, para el caso de la fricción rodante hay muchos menos estudios al respecto. Un modelo de predicción de niveles de AE para el caso de la fricción rodante puede tener importantes aplicaciones, por ejemplo, en el diagnóstico de condición de rodamientos o engranajes.
+Las emisiones acústicas (AE) son ondas de esfuerzo elástico de muy alta frecuencia producidas por liberaciones de energía de deformación en sólidos. Algunas de las fuentes de AE en componentes mecánicos son los impactos, la fricción y la deformación plástica, entre otras. Para el caso de la fricción deslizante entre superficies rugosas, existen algunos modelos que predicen los niveles de AE dados parámetros tales como velocidad de deslizamiento, área y rugosidad. Sin embargo, para el caso de la fricción rodante hay muchos menos estudios al respecto. Un modelo de predicción de niveles de AE para el caso de la fricción rodante puede tener importantes aplicaciones, por ejemplo, en el diagnóstico de condición de rodamientos o engranajes.
 #### Objetivo principal
 Proponer un modelo para estimar el nivel de AE generado por fricción rodante para un caso en particular.
 #### Temario
@@ -114,3 +114,17 @@ Implementar red generativa antagónica para mejorar el desempeño de modelos cla
 * Implementación y programación del modelo generativo en Python
 * Entrenamiento de modelos de clasificación solo con datos reales y con datos sintéticos y reales
 * Evaluación del desempeño de la estrategia
+
+## 10. Modelación fenomenológica de las emisiones acústicas generadas en engranajes planetarios.
+#### Descripción
+Las emisiones acústicas (AE) son ondas de esfuerzo elástico de muy alta frecuencia producidas por liberaciones de energía de deformación en sólidos. Algunas investigaciones han mostrado el gran potencial del análisis de AE para el mantenimiento predictivo de engranajes planetarios. Sin embargo, el estado del arte al respecto es todavía escaso y la mayoría de los estudios son solo análisis experimentales. En este sentido, el contenido frecuencial del espectro de envolvente debe aún ser investigado en detalle para facilitar su interpretación de manera consistente. En el marco de este trabajo, se propone realizar estar investigación utilizando señales simuladas de manera fenomenológica. 
+
+#### Objetivo principal
+Establecer una metodología fenomenológica para interpretar el espectro de envolvente de AE medidas en engranajes planetarios.
+
+#### Temario
+* Investigación bibliográfica sobre análisis de AE en engranajes planetarios
+* Determinar principales factores que influyen en el contenido frecuencial del espectro de envolvente
+* Implementar estrategia de modelación fenomenológica de señales de AE en Python 
+* Definir casos de estudio y analizarlos mediante la metodología propuesta
+* Comparación de la metodología con datos experimentales previamente medidos

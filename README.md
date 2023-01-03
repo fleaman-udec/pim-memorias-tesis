@@ -44,6 +44,8 @@ Proponer un concepto de software para llevar a cabo una descomposición empíric
 ## 4. Diseño de un banco de ensayos para análisis de fricción deslizante y rodante
 #### Descripción
 En diferentes máquinas y mecanismos los componentes pueden estar sometidos a fricción deslizante o rodante entre ellos. Un ejemplo típico de estos son las transmisiones por engranajes. Con el afán de analizar y medir estas interacciones entre componentes desde el punto de vista tribológico, se propone diseñar un banco de ensayos simple del tipo superficie-cilindro. La idea es que parámetros como velocidades y presiones de contacto se puedan ajustar de una forma controlada con algún mecanismo especial para ello. También se deberá considerar la posibilidad de estudiar la fricción en presencia de lubricación.
+
+*Existe*
 #### Objetivo principal
 Realizar el diseño (básico y detalles) de un banco de ensayos del tipo superficie-cilindro para análisis de fricción rodante y deslizante.
 #### Temario

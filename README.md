@@ -54,16 +54,16 @@ Implementar un banco de ensayos del tipo superficie-cilindro para análisis de f
 * Ensamblaje de componentes para puesta en marcha
 
 
-## 5. Modelación de emisiones acústicas generadas por fricción rodante
+## 5. Modelación de emisiones acústicas generadas por fricción deslizante y rodante (*)
 #### Descripción
-Las emisiones acústicas (AE) son ondas de esfuerzo elástico de muy alta frecuencia producidas por liberaciones de energía de deformación en sólidos. Algunas de las fuentes de AE en componentes mecánicos son los impactos, la fricción y la deformación plástica, entre otras. Para el caso de la fricción deslizante entre superficies rugosas, existen algunos modelos que predicen los niveles de AE dados parámetros tales como velocidad de deslizamiento, área y rugosidad. Sin embargo, para el caso de la fricción rodante hay muchos menos estudios al respecto. Un modelo de predicción de niveles de AE para el caso de la fricción rodante puede tener importantes aplicaciones, por ejemplo, en el diagnóstico de condición de rodamientos o engranajes.
+Las emisiones acústicas (AE) son ondas de esfuerzo elástico de muy alta frecuencia producidas por liberaciones de energía de deformación en sólidos. Una fuente importante de AE en máquinas es la fricción. Para el caso de la fricción deslizante entre superficies rugosas, existen algunos modelos que predicen los niveles de AE dados parámetros tales como velocidad de deslizamiento, área y rugosidad. Sin embargo, para el caso de la fricción rodante hay muchos menos estudios al respecto. Un modelo de predicción de niveles de AE para el caso de la fricción rodante puede tener importantes aplicaciones, por ejemplo, en el diagnóstico de condición de rodamientos o engranajes. En este trabajo se propone modelar la AE generada por diferentes casos de contacto entre un cilindro y una superficie plana.
 #### Objetivo principal
-Proponer un modelo para estimar el nivel de AE generado por fricción rodante para un caso en particular.
+Modelar los niveles de AE esperados para distintos casos de fricción rodante y deslizante entre un cilindro y superficie plana.
 #### Temario
 * Investigación bibliográfica sobre fricción
 * Investigación bibliográfica sobre emisiones acústicas
-* Análisis detallado del modelo para fricción deslizante
-* Propuesta de un modelo teórico o numérico para fricción rodante
+* Análisis detallado de modelos existentes para fricción deslizante y rodante
+* Adaptar modelos para casos de estudio en particular (cilindro-superficie)
 * Evaluación del modelo con datos de la literatura o medidos
 
 

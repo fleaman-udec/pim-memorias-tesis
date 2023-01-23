@@ -41,7 +41,7 @@ Proponer un concepto de software para llevar a cabo una descomposición empíric
 * Evaluación comparativa con señales experimentales de AE
 
 
-## 4. Implementación de un banco de ensayos para análisis de fricción deslizante y rodante
+## 4. Implementación de un banco de ensayos para análisis de fricción deslizante y rodante (*)
 #### Descripción
 En diferentes máquinas y mecanismos los componentes pueden estar sometidos a fricción deslizante o rodante entre ellos. Un ejemplo típico de estos son las transmisiones por engranajes. Con el afán de analizar y medir estas interacciones entre componentes desde el punto de vista tribológico, se propone diseñar un banco de ensayos simple del tipo superficie-cilindro. La idea es que parámetros como velocidades y presiones de contacto se puedan ajustar de una forma controlada con algún mecanismo especial para ello. También se deberá considerar la posibilidad de estudiar la fricción en presencia de lubricación.
 #### Objetivo principal
@@ -63,7 +63,7 @@ Proponer un modelo para estimar el nivel de AE generado por fricción rodante pa
 * Investigación bibliográfica sobre fricción
 * Investigación bibliográfica sobre emisiones acústicas
 * Análisis detallado del modelo para fricción deslizante
-* Propuesta de un modelo para fricción rodante
+* Propuesta de un modelo teórico o numérico para fricción rodante
 * Evaluación del modelo con datos de la literatura
 
 
@@ -118,10 +118,8 @@ Implementar red generativa antagónica para mejorar el desempeño de modelos cla
 ## 10. Modelación fenomenológica de las emisiones acústicas generadas en engranajes planetarios.
 #### Descripción
 Las emisiones acústicas (AE) son ondas de esfuerzo elástico de muy alta frecuencia producidas por liberaciones de energía de deformación en sólidos. Algunas investigaciones han mostrado el gran potencial del análisis de AE para el mantenimiento predictivo de engranajes planetarios. Sin embargo, el estado del arte al respecto es todavía escaso y la mayoría de los estudios son solo análisis experimentales. En este sentido, el contenido frecuencial del espectro de envolvente debe aún ser investigado en detalle para facilitar su interpretación de manera consistente. En el marco de este trabajo, se propone realizar estar investigación utilizando señales simuladas de manera fenomenológica. 
-
 #### Objetivo principal
 Establecer una metodología fenomenológica para interpretar el espectro de envolvente de AE medidas en engranajes planetarios.
-
 #### Temario
 * Investigación bibliográfica sobre análisis de AE en engranajes planetarios
 * Determinar principales factores que influyen en el contenido frecuencial del espectro de envolvente
@@ -130,7 +128,7 @@ Establecer una metodología fenomenológica para interpretar el espectro de envo
 * Comparación de la metodología con datos experimentales previamente medidos
 
 
-## 11. Diseño de un banco de ensayos para análisis del contacto entre dientes de engranajes
+## 11. Diseño de un banco de ensayos para análisis del contacto entre dientes de engranajes (*)
 #### Descripción
 En las transmisiones por engranajes los dientes están sometidos a diferentes instancias de contacto deslizante y rodante entre ellos. Con el afán de analizar y medir estas interacciones desde el punto de vista tribológico, se propone diseñar un banco de ensayos que replique el contacto deslizante-rodante que ocurre entre las superficies de los dientes. La idea es que parámetros como velocidades y presiones de contacto se puedan ajustar de una forma controlada con algún mecanismo especial para ello. También se deberá considerar la posibilidad de estudiar la fricción en presencia de lubricación.
 #### Objetivo principal

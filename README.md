@@ -64,7 +64,7 @@ Proponer un modelo para estimar el nivel de AE generado por fricción rodante pa
 * Investigación bibliográfica sobre emisiones acústicas
 * Análisis detallado del modelo para fricción deslizante
 * Propuesta de un modelo teórico o numérico para fricción rodante
-* Evaluación del modelo con datos de la literatura
+* Evaluación del modelo con datos de la literatura o medidos
 
 
 ## 6. Prototipo de un sistema de medición de vibraciones basado en Raspberry Pi
@@ -139,3 +139,16 @@ Diseñar un banco de ensayos consistente en superficies del tipo evolvente en co
 * Concepto y diseño de detalles del banco de ensayos
 * Especificación de componentes y materiales
 * Generación de planos para fabricación
+
+
+## 12. Simulación de las ondas de emisiones acústicas generadas por fricción en ANSYS LS-DYNA (*)
+#### Descripción
+Las emisiones acústicas (AE) son ondas de esfuerzo elástico de muy alta frecuencia producidas por liberaciones de energía de deformación en sólidos. Una de las principales fuentes de AE en máquinas es la fricción. Debido a que las características de las ondas de AE pueden aportar información respecto del proceso o condición de la máquina, es importante contar con herramientas que permitan conocer mejor su mecanismo de generación. En particular, se desea estudiar el caso del contacto entre un cilindro y una superficie plana mediante simulaciones numéricas en ANSYS LS-DYNA.
+#### Objetivo principal
+Obtener las formas de onda esperadas de AE para diferentes casos de contacto entre un cilindro y superficie plana mediante simulación numérica.
+#### Temario
+* Investigación bibliográfica sobre fricción
+* Investigación bibliográfica sobre emisiones acústicas
+* Aprender a usar el módulo LS-DYNA de ANSYS.
+* Definir casos de estudio y realizar simulaciones.
+* Evaluación de resultados obtenidos.

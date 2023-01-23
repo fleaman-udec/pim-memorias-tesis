@@ -152,3 +152,5 @@ Obtener las formas de onda esperadas de AE para diferentes casos de contacto ent
 * Aprender a usar el módulo LS-DYNA de ANSYS.
 * Definir casos de estudio y realizar simulaciones.
 * Evaluación de resultados obtenidos.
+
+(*): Temas a desarrollar en el marco de proyecto FONDECYT

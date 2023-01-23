@@ -41,18 +41,17 @@ Proponer un concepto de software para llevar a cabo una descomposición empíric
 * Evaluación comparativa con señales experimentales de AE
 
 
-## 4. Diseño de un banco de ensayos para análisis de fricción deslizante y rodante
+## 4. Implementación de un banco de ensayos para análisis de fricción deslizante y rodante
 #### Descripción
 En diferentes máquinas y mecanismos los componentes pueden estar sometidos a fricción deslizante o rodante entre ellos. Un ejemplo típico de estos son las transmisiones por engranajes. Con el afán de analizar y medir estas interacciones entre componentes desde el punto de vista tribológico, se propone diseñar un banco de ensayos simple del tipo superficie-cilindro. La idea es que parámetros como velocidades y presiones de contacto se puedan ajustar de una forma controlada con algún mecanismo especial para ello. También se deberá considerar la posibilidad de estudiar la fricción en presencia de lubricación.
-**Existirá un incentivo económico para el/la memorista que trabaje en este tema**
 #### Objetivo principal
-Realizar el diseño (básico y detalles) de un banco de ensayos del tipo superficie-cilindro para análisis de fricción rodante y deslizante.
+Implementar un banco de ensayos del tipo superficie-cilindro para análisis de fricción rodante y deslizante.
 #### Temario
 * Análisis de requerimientos del diseño
-* Concepto y diseño básico del banco de ensayos
-* Diseño en detalles del banco de ensayos
+* Concepto y diseño de detalles del banco de ensayos
 * Especificación de componentes y materiales
 * Generación de planos para fabricación
+* Ensamblaje de componentes para puesta en marcha
 
 
 ## 5. Modelación de emisiones acústicas generadas por fricción rodante
@@ -129,3 +128,16 @@ Establecer una metodología fenomenológica para interpretar el espectro de envo
 * Implementar estrategia de modelación fenomenológica de señales de AE en Python 
 * Definir casos de estudio y analizarlos mediante la metodología propuesta
 * Comparación de la metodología con datos experimentales previamente medidos
+
+
+## 11. Diseño de un banco de ensayos para análisis del contacto entre dientes de engranajes
+#### Descripción
+En las transmisiones por engranajes los dientes están sometidos a diferentes instancias de contacto deslizante y rodante entre ellos. Con el afán de analizar y medir estas interacciones desde el punto de vista tribológico, se propone diseñar un banco de ensayos que replique el contacto deslizante-rodante que ocurre entre las superficies de los dientes. La idea es que parámetros como velocidades y presiones de contacto se puedan ajustar de una forma controlada con algún mecanismo especial para ello. También se deberá considerar la posibilidad de estudiar la fricción en presencia de lubricación.
+#### Objetivo principal
+Diseñar un banco de ensayos consistente en superficies del tipo evolvente en contacto deslizante y rodante.
+#### Temario
+* Análisis de requerimientos del diseño
+* Cálculos geométricos y de accionamiento mecánico
+* Concepto y diseño de detalles del banco de ensayos
+* Especificación de componentes y materiales
+* Generación de planos para fabricación

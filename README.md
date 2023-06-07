@@ -97,7 +97,7 @@ Obtener las formas de onda esperadas de AE para diferentes casos de contacto ent
 #### Descripción
 Las emisiones acústicas (AE) son ondas de esfuerzo elástico de muy alta frecuencia producidas por liberaciones de energía de deformación en sólidos. Al pasar sobre un defecto (grieta, picadura, etc.) durante su propagación, sus características se ven alteradas. El análisis de estas ondas y la determinación de estas alteraciones sirven para la detección de dichos defectos en distintos tipos de estructuras. Además, la combinación de varios sensores puede permitir la localización espacial de dichos defectos.
 #### Objetivo principal
-Obtener las formas de onda esperadas de AE para diferentes casos de contacto entre un cilindro y superficie plana mediante simulación numérica.
+Detectar fallas en estructuras simples mediante el análisis experimental de emisiones acústicas.
 #### Temario
 * Investigación bibliográfica sobre emisiones acústicas
 * Investigación bibliográfica sobre técnicas de análisis

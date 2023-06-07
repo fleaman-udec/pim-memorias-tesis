@@ -88,8 +88,21 @@ Obtener las formas de onda esperadas de AE para diferentes casos de contacto ent
 #### Temario
 * Investigación bibliográfica sobre fricción
 * Investigación bibliográfica sobre emisiones acústicas
-* Aprender a usar el módulo LS-DYNA de ANSYS.
-* Definir casos de estudio y realizar simulaciones.
-* Evaluación de resultados obtenidos.
+* Aprender a usar el módulo LS-DYNA de ANSYS
+* Definir casos de estudio y realizar simulaciones
+* Evaluación de resultados obtenidos
+
+
+## 8. Detección experimental de defectos en estructuras mediante emisiones acústicas
+#### Descripción
+Las emisiones acústicas (AE) son ondas de esfuerzo elástico de muy alta frecuencia producidas por liberaciones de energía de deformación en sólidos. Al pasar sobre un defecto (grieta, picadura, etc.) durante su propagación, sus características se ven alteradas. El análisis de estas ondas y la determinación de estas alteraciones sirven para la detección de dichos defectos en distintos tipos de estructuras. Además, la combinación de varios sensores puede permitir la localización espacial de dichos defectos.
+#### Objetivo principal
+Obtener las formas de onda esperadas de AE para diferentes casos de contacto entre un cilindro y superficie plana mediante simulación numérica.
+#### Temario
+* Investigación bibliográfica sobre emisiones acústicas
+* Investigación bibliográfica sobre técnicas de análisis
+* Definir procedimiento experimental y casos de estudio
+* Realizar mediciones bajo distinas condiciones
+* Analizar las señales medidas según técnicas de la literatura
 
 (*): Temas a desarrollar en el marco de proyecto FONDECYT

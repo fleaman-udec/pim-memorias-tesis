@@ -105,4 +105,17 @@ Detectar fallas en estructuras simples mediante el análisis experimental de emi
 * Realizar mediciones bajo distinas condiciones
 * Analizar las señales medidas según técnicas de la literatura
 
+
+## 9. Influencia de los recubrimientos de pintura en la medición de emisiones acústicas
+#### Descripción
+Las emisiones acústicas (AE) son ondas de esfuerzo elástico de muy alta frecuencia producidas por liberaciones de energía de deformación en sólidos. Su correcta medición requiere una preparación de la superficie en donde se ubicará el sensor con el fin de asegurar un buen acople. Esta preparación involucra pulir la superficie del sólido para remover capas de pintura que pudieran afectar la medición. Sin embargo, hay situaciones en donde no es posible remover la capa de pintura por diversas razones. En estos casos, es importante saber cómo afecta la capa de pintura a las señales medidas para no emitir juicios incorrectos respecto de su análisis.
+#### Objetivo principal
+Determinar la influencia de los parámetros del recubribmiento de pintura en las características de las emisiones acústicas medidas.
+#### Temario
+* Investigación bibliográfica sobre emisiones acústicas
+* Investigación bibliográfica sobre recubrimientos de pintura
+* Estudiar relación teórica entre parámetros del recubrimiento y transmisión acústica
+* Realizar experimentos bajo distintas condiciones
+* Analizar las señales medidas y comparación con la teoría
+
 (*): Temas a desarrollar en el marco de proyecto FONDECYT

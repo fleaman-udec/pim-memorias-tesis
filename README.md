@@ -118,4 +118,19 @@ Determinar la influencia de los parámetros del recubribmiento de pintura en las
 * Realizar experimentos bajo distintas condiciones
 * Analizar las señales medidas y comparación con la teoría
 
+## 10. Implementación de sistema de medición de ultrasonido de bajo costo
+#### Descripción
+La inspección no destructiva por ultrasonido consiste en emitir ondas de sonido de alta frecuencia sobre un sólido y medir las reflexiones que se producen por discontonuidades en él. De esta forma, se pueden localizar posibles defectos internos, o bien, realizar otras tareas como medición de espesor o de proximidad a objetos. Hay gran variedad de instrumentos ultrasónicos, por lo que conocer las capacidades y limitaciones de cada uno de ellos es clave a la hora de poder usar la técnica con éxito. Dentro del trabajo, se propone explorar las capacidades de un instrumento de bajo costo que emite y recibe ondas ultrasónicas.
+#### Objetivo principal
+Caracterizar las capacidades y limitaciones de un transceptor ultrasónico de bajo costo
+#### Temario
+* Investigación bibliográfica sobre ultrasonido
+* Analizar especificaciones de la instrumentación disponible
+* Realizar configuración de los instrumentos y conexiones entre ellos
+* Desarrollo de scripts para medición y análisis de datos
+* Realizar pruebas experimentales bajo condiciones controladas
+
+
+
+
 (*): Temas a desarrollar en el marco de proyecto FONDECYT

@@ -130,6 +130,40 @@ Caracterizar las capacidades y limitaciones de un transceptor ultrasónico de ba
 * Desarrollo de scripts para medición y análisis de datos
 * Realizar pruebas experimentales bajo condiciones controladas
 
+## 11. Integración de algoritmos y sensores para generación de imágenes acústicas
+#### Descripción 
+#### Objetivo general 
+#### Temario
+
+## 12.Mejoramiento de medición de vibración por video mediante integración con audio
+#### Descripción 
+#### Objetivo general 
+#### Temario
+
+## 13. Granulometría en muestras de rocas mediante imágenes y aprendizaje profundo
+#### Descripción 
+#### Objetivo general 
+#### Temario
+
+## 14. Análisis de emisiones acústicas en componentes impresos en plástico PLA
+#### Descripción 
+#### Objetivo general 
+#### Temario
+
+## 15. Detección de elementos ocultos en muestras de rocas usando magnetometría
+#### Descripción 
+#### Objetivo general 
+#### Temario
+
+## 16. Estudio de lubricación en banco de ensayos de contacto de engranajes (*)
+#### Descripción 
+#### Objetivo general 
+#### Temario
+
+## 17. Emisiones acústicas generadas por distintos materiales bajo carga estática
+#### Descripción 
+#### Objetivo general 
+#### Temario
 
 
 

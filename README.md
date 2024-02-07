@@ -132,6 +132,14 @@ Caracterizar las capacidades y limitaciones de un transceptor ultrasónico de ba
 
 ## 11. Integración de algoritmos y sensores para generación de imágenes acústicas
 #### Descripción 
+
+#### Objetivo general 
+
+#### Temario
+
+
+## 12.Mejoramiento de medición de vibración por video mediante integración con audio
+#### Descripción 
 Gracias al avance tecnológico de los sensores ópticos y el procesamiento de imágenes, es posible medir las vibraciones de un cuerpo mediante el seguimiento de puntos fijos de él. Sin embargo, este procedimiento tiene algunas desventajas como sensibilidad ante factores externos y baja tasa de muestreo. La idea del trabajo es mejorar esta medición usando integración con el sensor de presión sonora.
 #### Objetivo general 
 Desarrollar procedimiento para integrar video y audio en la medición de vibraciones.
@@ -141,11 +149,6 @@ Desarrollar procedimiento para integrar video y audio en la medición de vibraci
 * Medición de vibraciones con sensores de teléfono móvil y sensor de referencia 
 * Procesamiento de datos y análisis
 * Evaluación del desempeño de las técnicas
-
-## 12.Mejoramiento de medición de vibración por video mediante integración con audio
-#### Descripción 
-#### Objetivo general 
-#### Temario
 
 ## 13. Granulometría en muestras de rocas mediante imágenes y aprendizaje profundo
 #### Descripción 
